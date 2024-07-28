@@ -8,10 +8,10 @@
 ## 📊 My Stats
 <div align="center">
 <a href="https://github.com/y0nkers?tab=repositories">
-  <img height=300 width=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=y0nkers&theme=dark" />
+  <img height=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=y0nkers&theme=dark" />
 </a>
 <a href="https://leetcode.com/y0nkers">
-  <img height=300 width=600 align="center" src="https://leetcard.jacoblin.cool/y0nkers?ext=heatmap" />
+  <img height=300 src="https://leetcard.jacoblin.cool/y0nkers?ext=heatmap" />
 </a>
 </div>
 
